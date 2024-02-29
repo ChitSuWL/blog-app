@@ -1,2 +1,2 @@
 # blog-app
-Udemy Sep 23
+Next js/ React js/ AWS
